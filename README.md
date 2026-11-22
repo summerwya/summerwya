@@ -1,6 +1,8 @@
 # Introooo
 
-I'm an amateur self-taught software dev and no, I don't vibe code. But I can't lie about using AI to search and summarize documentation pages. 
+I'm an amateur self-taught software dev. And no, I don't vibe code. But I do use AI for reviewing code.
+
+I started programming when I was around 11. I read a book from the 90s titled "Sam's teach yourself javascript in 24 hours" then that started everything.
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Hs79BraGxK) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23834759) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tzumi.miloo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmJ8yo2m2L_L7L3P69-PYzA) 
